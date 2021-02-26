@@ -8,3 +8,5 @@
 /captures
 .externalNativeBuild
 *.py
+*.pyc
+lambda_function
